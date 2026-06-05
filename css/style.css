@@ -1,0 +1,26 @@
+* {
+    border: 1px solid red;
+}
+body{
+    font-size: 22px;
+}
+
+h1{
+    color:green;
+
+}
+h2{
+    color:gray;
+}
+p{
+    color: red;
+}
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+.grey {
+    color: gray;
+}
+
+
