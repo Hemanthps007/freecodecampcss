@@ -1,16 +1,19 @@
-* {
-    border: 1px solid red;
+html{
+    font-size:22px
 }
 body{
-    font-size: 22px;
+    
+}
+main {
+    font-family: monospace;
 }
 
-h1{
+button,input,textera,select{
+    font: inherit;
+}
+
+h1,h2 {
     color:green;
-
-}
-h2{
-    color:gray;
 }
 p{
     color: red;
